@@ -16,6 +16,12 @@ body {
 }
 
 h1 {
-	color: white ;
-	
+	color: white;
+}
+
+.jumbotron-fluid {
+	color: purple;
+}
+.display-4 {
+	color: black ;
 }
